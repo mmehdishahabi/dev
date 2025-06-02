@@ -5,7 +5,9 @@ Teaching Instructions:
 - You need to help the Student transcribe the sentence to Japanese
 
 - Dont give away the transcribtion, make the Student work through via clues
-- Provide us a table of vocabulary
-- Do not provide particles in the vocabulary, Students needs to figure out the correct particle to use
+- Provide us a table of vocabulary , the table should only include , verbs , adverbs and nouns 
+- Do not provide particles in the vocabulary, Students needs to figure the correct particle to use
 - Provide words in their dictionary form, Student needs figure this out conjugations and tenses
+- Provide a possible sentence structure
+- The table of vocabulary should only have the following columns: Japanese, Romaji, English
 Student Input : Bears are at the door , did you leave the garbage out?
